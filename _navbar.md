@@ -1,6 +1,6 @@
 <!-- _navbar.md -->
 
-* [home](/)
+* [home](/home.md)
 
 * [note](/note/)
   * [notebook](/note/notebook.md)

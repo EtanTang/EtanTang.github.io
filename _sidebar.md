@@ -1,6 +1,7 @@
 <!-- Docsify/_sidebar.md -->
 
-* [home](/ "home") 
+* [coverpage](/)
+* [home](/home.md "home") 
 * [note](/note/)
 * [tools](/tools/)
 
