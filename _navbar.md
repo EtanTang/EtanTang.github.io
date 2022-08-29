@@ -7,5 +7,5 @@
   * [note](/note/)
 
 * [tools](/tools/)
-  * [markdown](https://markdown.com.cn/basic-syntax/ "markdown语法")
   * [cmake](/tools/cmake.md "cmake入门")
+  * [arduino](/tools/arduino)
