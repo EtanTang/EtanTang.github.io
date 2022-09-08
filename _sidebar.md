@@ -2,6 +2,6 @@
 
 * [coverpage](/)
 * [home](/home.md "home") 
-* [note](/note/)
-* [tools](/tools/)
+* [note](/note/README.md)
+* [tools](/tools/readme.md)
 
