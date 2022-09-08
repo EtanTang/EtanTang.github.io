@@ -9,3 +9,5 @@
 * [tools](/tools/)
   * [cmake](/tools/cmake.md "cmake入门")
   * [arduino](/tools/arduino)
+  * [micropython](/tools/micropython.md)
+  * [docker](/tools/docker.md)
