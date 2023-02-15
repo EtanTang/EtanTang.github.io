@@ -40,4 +40,4 @@
 >>2. 列表2
 
 这是一个链接 [菜鸟教程](https://www.runoob.com)  
-[gps](testWeb/gps.html)
+html页面[gps](/html/gps.html "/html/gps.html")
